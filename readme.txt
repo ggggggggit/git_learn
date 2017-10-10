@@ -5,3 +5,5 @@ Another line!!!!!!!
 Test push!!!!
 
 Branch test
+
+Merge with no ff
